@@ -34,3 +34,18 @@ body{
 .navbar-inverse {
      background-color: #512DA8;
 }
+.form-header{
+    text-indent: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.reserve-form{
+    margin-left: 20%;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
